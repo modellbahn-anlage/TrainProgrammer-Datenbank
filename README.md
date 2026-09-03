@@ -4,4 +4,6 @@ Bitte prüfen Sie regelmäßig auf Updates, wir entwickeln die Decoder-Templates
 
 Viel Spaß beim Verwenden!
 
+Bei Fragen erstellen Sie bitte eine Anfrage auf https://support.modellbahn-anlage.de/
+
 Ihr Martin Fitzel
